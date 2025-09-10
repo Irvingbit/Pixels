@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "text": "¿Cuál es la capital de Perú?",
+    "options": [
+      "Lima",
+      "Cusco",
+      "Arequipa",
+      "Trujillo"
+    ],
+    "correct": 0,
+    "category": "Geografía",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "text": "¿Cuánto es 7 x 8?",
+    "options": [
+      "54",
+      "56",
+      "49",
+      "63"
+    ],
+    "correct": 1,
+    "category": "Matemáticas",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "text": "¿Quién escribió 'Cien años de soledad'?",
+    "options": [
+      "Pablo Neruda",
+      "Gabriel García Márquez",
+      "Mario Vargas Llosa",
+      "Jorge Luis Borges"
+    ],
+    "correct": 1,
+    "category": "Literatura",
+    "difficulty": "medium"
+  },
+  {
+    "id": 4,
+    "text": "¿Qué instrucción en Python sirve para iterar sobre una secuencia?",
+    "options": [
+      "if",
+      "while",
+      "for",
+      "switch"
+    ],
+    "correct": 2,
+    "category": "Programación",
+    "difficulty": "medium"
+  },
+  {
+    "id": 5,
+    "text": "¿En qué año se inició la Segunda Guerra Mundial?",
+    "options": [
+      "1914",
+      "1939",
+      "1945",
+      "1929"
+    ],
+    "correct": 1,
+    "category": "Historia",
+    "difficulty": "hard"
+  },
+  {
+    "id": 6,
+    "text": "como se llama el crush de fernanda",
+    "options": [
+      "Hirving",
+      "geizu",
+      "Yasser",
+      "Julito"
+    ],
+    "correct": 0,
+    "category": "Reailidad Universitaria",
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "text": "cual es el crush de Fernanda",
+    "options": [
+      "Gayzu",
+      "Yasser(no sabe)",
+      "El chamito",
+      "Todas las Anteriores"
+    ],
+    "correct": 1,
+    "category": "Realidad Universitaria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 8,
+    "text": "Cuantos cursos lleva el Inge Americo",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "todos"
+    ],
+    "correct": 3,
+    "category": "informatica",
+    "difficulty": "hard"
+  }
+]

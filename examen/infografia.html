@@ -1,0 +1,47 @@
+
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Infografía - Juego Educativo (Quiz)</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <style>
+    body{font-family:Arial,Helvetica,sans-serif;margin:0;padding:0;line-height:1.4;background:#f6f8fb;color:#222}
+    header{background:#1e90ff;color:#fff;padding:18px;text-align:center}
+    section{padding:18px;max-width:900px;margin:12px auto}
+    .card{background:#fff;border:1px solid #e1e6ee;padding:14px;margin:10px 0;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,0.05)}
+    .grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+    @media(max-width:700px){.grid{grid-template-columns:1fr}}
+    .btn{display:inline-block;padding:8px 12px;background:#1e90ff;color:#fff;border-radius:6px;text-decoration:none}
+  </style>
+</head>
+<body>
+<header><h1>Juego Educativo de Preguntas y Respuestas</h1></header>
+<section>
+  <div class="card">
+    <h3>Problema</h3>
+    <p>Estudiantes encuentran los métodos tradicionales poco interactivos; se propone un quiz para practicar contenidos.</p>
+  </div>
+  <div class="grid">
+    <div class="card">
+      <h3>Funcionalidades</h3>
+      <ul>
+        <li>Jugar modo rápido (5 preguntas).</li>
+        <li>Elegir número de preguntas.</li>
+        <li>Añadir preguntas nuevas.</li>
+        <li>Exportar resultados a CSV.</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Tecnologías</h3>
+      <p>Python, POO, JSON (persistencia en archivo), editores con IA (VSCode+Copilot, Replit, Tabnine).</p>
+    </div>
+  </div>
+  <div class="card">
+    <h3>Cómo probar</h3>
+    <p>Descargar archivos y ejecutar en consola con <code>python main.py</code></p>
+    <p><a class="btn" href="main.py">Abrir main.py</a> (usa localmente)</p>
+  </div>
+</section>
+</body>
+</html>
